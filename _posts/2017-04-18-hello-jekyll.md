@@ -3,7 +3,7 @@ layout: post
 title: 'Hello the first testing blog'
 date: 2019-11-11
 author: Cheng Zhuo
-cover: 'assets/img/Yellowboys.png'
+cover: 'assets/img/Minions.jpg'
 tags: test
 ---
 
