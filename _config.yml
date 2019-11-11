@@ -58,6 +58,7 @@ postPatterns: 'circuitBoard'
 sns:
   weibo: '//weibo.com/u/5805460228'
   github: '//github.com/changeiot'
+  zhihu: '//www.zhihu.com/people/xiao-cheng-35-61/'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
