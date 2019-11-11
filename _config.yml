@@ -17,6 +17,7 @@ baseurl: '' #your host
 # Navigation links
 nav:
   home: '/'
+  blogs: '/'
   tags: '/tags.html'
 
 # Footer
@@ -25,7 +26,7 @@ footer:
 
 # Author 配置博主信息
 author: 'Zhuo Cheng'
-nickname: 'cahgne'
+nickname: 'change'
 bio: 'Life is like sailing against the current'
 avatar: '/assets/img/profile.png'
 
@@ -61,7 +62,7 @@ sns:
   zhihu: '//www.zhihu.com/people/xiao-cheng-35-61/'
 
 # Tags 设置标签
-recommend-tags: true # whether or not display recommend-tags on the sidebar
+recommend-tags: false # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
 # Build settings
