@@ -19,7 +19,7 @@ nav:
   home: '/'
   blogs: '/'
   Current Project:'/'
-  #Tags: '/tags.html'
+  Tags: '/tags.html'
 
 # Footer
 footer:
