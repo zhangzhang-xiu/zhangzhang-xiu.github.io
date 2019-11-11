@@ -3,7 +3,7 @@ layout: post
 title: 'Hello the first testing blog'
 date: 2019-11-11
 author: Cheng Zhuo
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: 'https://github.com/changeiot/changeiot.github.io/blob/master/assets/img/Yellowboys.png'
 tags: test
 ---
 
