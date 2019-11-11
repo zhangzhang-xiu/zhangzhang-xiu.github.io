@@ -18,7 +18,8 @@ baseurl: '' #your host
 nav:
   home: '/'
   blogs: '/'
-  tags: '/tags.html'
+  Current Project:'/'
+  #ags: '/tags.html'
 
 # Footer
 footer:
