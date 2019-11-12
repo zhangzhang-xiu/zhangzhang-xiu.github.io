@@ -23,4 +23,4 @@ tags: test
 
 ### 006Video Test
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMjY1Mzc4MjU3Ng==' frameborder=0 'allowfullscreen'></iframe>
+<iframe type="text/html" width="100%" height="385" src="https://v.youku.com/v_show/id_XMjY1Mzc4MjU3Ng==.html?spm=a2h0j.11185381.listitem_page15.5!20~A" frameborder="0"></iframe>
