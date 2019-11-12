@@ -29,6 +29,5 @@ tags: test
 <video width ="720px" height = "480px" id="video" controls="" preload="none">
 <source id="mp4" src="http://vd2.bdstatic.com/mda-imcg97r4qgk2knxd/sc/mda-imcg97r4qgk2knxd.mp4" 
 	 type="video/mp4">
-		<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 </p>
