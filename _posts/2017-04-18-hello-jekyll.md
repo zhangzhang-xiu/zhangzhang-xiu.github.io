@@ -23,7 +23,7 @@ tags: test
 
 ### 006Video Test
 
-<iframe type="text/html" width="100%" height="385" src="http://vd2.bdstatic.com/mda-imcg97r4qgk2knxd/sc/mda-imcg97r4qgk2knxd.mp4" frameborder="0"></iframe>
+<!-- <iframe type="text/html" width="100%" height="385" src="http://vd2.bdstatic.com/mda-imcg97r4qgk2knxd/sc/mda-imcg97r4qgk2knxd.mp4" frameborder="0"></iframe> -->
 
 <video id="video" controls="" preload="none"
    poster="http://media.w3.org/2010/05/sintel/poster.png">
