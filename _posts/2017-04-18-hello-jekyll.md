@@ -26,7 +26,7 @@ tags: test
 <!-- <iframe type="text/html" width="100%" height="385" src="http://vd2.bdstatic.com/mda-imcg97r4qgk2knxd/sc/mda-imcg97r4qgk2knxd.mp4" frameborder="0"></iframe> -->
 
 
-<video width = "100%" height = "420px" id = "video" controls = "" preload = "none"
+<video width = "100%" height = "360px" id = "video" controls = "" preload = "none"
     poster = "https://github.com/changeiot/changeiot.github.io/blob/master/assets/img/wedding.jpg">
 <source id = "mp4" src = " http://vd2.bdstatic.com/mda-imcg97r4qgk2knxd/sc/mda-imcg97r4qgk2knxd.mp4" type = "video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
