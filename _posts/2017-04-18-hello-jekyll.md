@@ -26,8 +26,7 @@ tags: test
 <!-- <iframe type="text/html" width="100%" height="385" src="http://vd2.bdstatic.com/mda-imcg97r4qgk2knxd/sc/mda-imcg97r4qgk2knxd.mp4" frameborder="0"></iframe> -->
 
 <p align = "center">
-<video width = "720px" height = "480px" id = "video" controls = "" preload = "none" 
- poster = "https://github.com/changeiot/changeiot.github.io/blob/master/assets/img/wedding.jpg">
+<video width = "720px" height = "480px" poster = "https://github.com/changeiot/changeiot.github.io/blob/master/assets/img/wedding.jpg" id = "video" controls = "" preload = "none" >
 <source id = "mp4" src = " http://vd2.bdstatic.com/mda-imcg97r4qgk2knxd/sc/mda-imcg97r4qgk2knxd.mp4" 
 	type = "video/mp4">
 </video>
