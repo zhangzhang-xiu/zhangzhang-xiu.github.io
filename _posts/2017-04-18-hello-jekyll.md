@@ -39,8 +39,7 @@ https://github.com/changeiot/changeiot.github.io/blob/master/assets/img/wedding.
 
 <video width = "100%" height = "480px" id = "video" controls = "" preload = "none"
     poster = "https://wx2.sinaimg.cn/mw690/006kT7pily1g8wvqmlvzgj30yt0ir1kx.jpg">
-<source id = "mp4" src = " http://vd2.bdstatic.com/mda-imcg97r4qgk2knxd/sc/mda-imcg97r4qgk2knxd.mp4" type = "video/mp4">
+<source id = "mp4" src = " http://1251542705.vod2.myqcloud.com/vod-player/1251542705/5285890796061136500/tcplayer/console/vod-player.html?autoplay=false&width=960&height=540" type = "video/mp4">
 	<p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-![小丑女](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1515522754,776739523&fm=26&gp=0.jpg"骚")
