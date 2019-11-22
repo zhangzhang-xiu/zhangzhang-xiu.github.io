@@ -30,8 +30,7 @@ tags: blog first
 
   穆里尼奥接受了热刺，站长很开心，又有足球看了😊。
   
-  [穆尼里奥](http://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E7%A9%86%E9%87%8C%E5%B0%BC%E5%A5%A5&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=1000381579,2145927049&os=2640934820,849064418&simid=3266618817,321166146&pn=20&rn=1&di=157960&ln=1658&fr=&fmq=1574440749709_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fimg4.cache.netease.com%2Fsports%2F2010%2F11%2F29%2F201011290249198cdb2.jpg&rpstart=0&rpnum=0&adpicid=0&force=undefined"这才叫帅")
-  
+  ![穆尼里奥](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574451024022&di=2b46f0d3f277f8acacea710c4ec1ff39&imgtype=0&src=http%3A%2F%2Fimg4.cache.netease.com%2Fsports%2F2010%2F11%2F29%2F201011290249198cdb2.jpg)
 ### 006Video Test
 
 <!-- <iframe type="text/html" width="100%" height="385" src="http://vd2.bdstatic.com/mda-imcg97r4qgk2knxd/sc/mda-imcg97r4qgk2knxd.mp4" frameborder="0"></iframe> 
