@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Hello the first testing blog'
-date: 2019-11-11
-author: Cheng Zhuo
-cover: 'assets/img/Minions.jpg'
+title: 'First blog'
+date: 2019-11-22
+author: Zhang Zhang
+cover: 'https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1515522754,776739523&fm=26&gp=0.jpg'
 tags: test
 ---
 
