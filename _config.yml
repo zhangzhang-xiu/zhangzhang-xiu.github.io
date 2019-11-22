@@ -16,9 +16,10 @@ baseurl: '' #your host
 
 # Navigation links
 nav:
-  home: '/'
-  blogs: '/'
-  Projects: '/'
+  主页: '/'
+  技术博客: '/'
+  生活点滴: '/'
+  天马行空: '/'
   Tags: '/tags.html'
 
 # Footer
