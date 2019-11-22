@@ -20,17 +20,17 @@ nav:
   技术博客: '/'
   生活点滴: '/'
   天马行空: '/'
-  Tags: '/tags.html'
+  标签: '/tags.html'
 
 # Footer
 footer:
   since: 2019
 
 # Author 配置博主信息
-author: 'Zhuo Cheng'
-nickname: 'change'
-bio: 'Life is like sailing against the current'
-avatar: '/assets/img/profile.png'
+author: '张章'
+nickname: '张恨水'
+bio: '看我老婆就知道我有钱'
+avatar: '/assets/img/pikaqiu1.png'
 
 # Search
 search: true
