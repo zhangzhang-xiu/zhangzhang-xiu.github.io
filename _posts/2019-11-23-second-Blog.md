@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '第二期：关于学习计划和相关进度'
+title: '第二期：关于学习计划和相关进度（持续更新）'
 date: 2019-11-23
 author: Zhang Zhang
 cover: 'http://oss.suning.com/snsis/channel_content/9k8qmtpZAlS83TpvTJAMKvGS3NIC-LKnZMcXz0CMKCRC6RrlNeVMYUmy9aVKOVV5.jpg'
