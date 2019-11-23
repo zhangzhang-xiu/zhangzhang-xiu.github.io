@@ -3,8 +3,8 @@ layout: post
 title: 'First blog'
 date: 2019-11-22
 author: Zhang Zhang
-cover: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574503739409&di=cf9fcab8bb6af5ec2dc567b1183bda90&imgtype=0&src=http%3A%2F%2Fhbimg.huabanimg.com%2F2bc6a6d4bf94c6d4d7baf998c7d0be0dc1a450e483120-S1fdYv_fw658'
-tags: blog first
+cover: ''https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1515522754,776739523&fm=26&gp=0.jpg''
+tags: blog class
 ---
 
 > 第一次嘛，总是美好又生涩
