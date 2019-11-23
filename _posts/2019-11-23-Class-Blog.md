@@ -3,7 +3,7 @@ layout: post
 title: 'First blog'
 date: 2019-11-22
 author: Zhang Zhang
-cover: 'https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1515522754,776739523&fm=26&gp=0.jpg'
+cover: 'https://github.com/zhangzhang-xiu/zhangzhang-xiu.github.io/blob/master/assets/img/timg.jpg?raw=true'
 tags: blog first
 ---
 
