@@ -33,13 +33,5 @@ tags: blog first
   ![穆尼里奥](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574451024022&di=2b46f0d3f277f8acacea710c4ec1ff39&imgtype=0&src=http%3A%2F%2Fimg4.cache.netease.com%2Fsports%2F2010%2F11%2F29%2F201011290249198cdb2.jpg)
 ### 006Video Test
 
-<!-- <iframe type="text/html" width="100%" height="385" src="http://vd2.bdstatic.com/mda-imcg97r4qgk2knxd/sc/mda-imcg97r4qgk2knxd.mp4" frameborder="0"></iframe> 
-https://github.com/changeiot/changeiot.github.io/blob/master/assets/img/wedding.jpg
--->
 
-<video width = "100%" height = "480px" id = "video" controls = "" preload = "none"
-    poster = "https://wx2.sinaimg.cn/mw690/006kT7pily1g8wvqmlvzgj30yt0ir1kx.jpg">
-<source id = "mp4" src = " http://1251542705.vod2.myqcloud.com/vod-player/1251542705/5285890796061136500/tcplayer/console/vod-player.html?autoplay=false&width=960&height=540" type = "video/mp4">
-	<p>Your user agent does not support the HTML5 Video element.</p>
-</video>
 
