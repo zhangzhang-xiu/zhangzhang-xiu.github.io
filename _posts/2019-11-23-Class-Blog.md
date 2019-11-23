@@ -3,7 +3,7 @@ layout: post
 title: 'First blog'
 date: 2019-11-22
 author: Zhang Zhang
-cover: 'https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1515522754,776739523&fm=26&gp=0.jpg'
+cover: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574504554842&di=f9a284920ab70babcabe06eb887121c3&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201804%2F30%2F2018043020141_jZNQc.thumb.700_0.jpeg'
 tags: blog class
 ---
 
