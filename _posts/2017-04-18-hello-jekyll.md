@@ -30,7 +30,7 @@ tags: blog first
 
   穆里尼奥接手了热刺，站长很开心，又有足球看了😊。
   
-  ![穆尼里奥][穆尼里奥](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574451024022&di=2b46f0d3f277f8acacea710c4ec1ff39&imgtype=0&src=http%3A%2F%2Fimg4.cache.netease.com%2Fsports%2F2010%2F11%2F29%2F201011290249198cdb2.jpg)
+  ![穆尼里奥](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574451024022&di=2b46f0d3f277f8acacea710c4ec1ff39&imgtype=0&src=http%3A%2F%2Fimg4.cache.netease.com%2Fsports%2F2010%2F11%2F29%2F201011290249198cdb2.jpg)
 
 
 
