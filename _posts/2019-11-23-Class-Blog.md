@@ -3,7 +3,7 @@ layout: post
 title: 'First blog'
 date: 2019-11-22
 author: Zhang Zhang
-cover: 'https://github.com/zhangzhang-xiu/zhangzhang-xiu.github.io/blob/master/assets/img/timg.jpg?raw=true'
+cover: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574503550729&di=f4b5604f14a4a57883a6ad75ff1f58d6&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F361023a1d05909afd251000b3692cade2875967a8dc2-QQwMqE_fw658'
 tags: blog first
 ---
 
