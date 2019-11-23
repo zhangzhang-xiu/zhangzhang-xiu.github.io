@@ -3,7 +3,7 @@ layout: post
 title: 'First blog'
 date: 2019-11-22
 author: Zhang Zhang
-cover: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574503550729&di=f4b5604f14a4a57883a6ad75ff1f58d6&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F361023a1d05909afd251000b3692cade2875967a8dc2-QQwMqE_fw658'
+cover: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574503739409&di=cf9fcab8bb6af5ec2dc567b1183bda90&imgtype=0&src=http%3A%2F%2Fhbimg.huabanimg.com%2F2bc6a6d4bf94c6d4d7baf998c7d0be0dc1a450e483120-S1fdYv_fw658'
 tags: blog first
 ---
 
